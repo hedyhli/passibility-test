@@ -7,5 +7,5 @@ jobs:
     steps:
       - uses: hedythedev/passibility@main
         with:
-          milliseconds: 1000
+          percentage: 100
       - run: echo hi
